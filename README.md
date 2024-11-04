@@ -60,19 +60,3 @@ This repository contains an implementation of an optimized lightweight deep lear
 
 ---
 
-## Getting Started
-
-### Prerequisites
-
-- Python 3.x
-- PyTorch
-- NumPy
-- scikit-learn
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/lightweight-amc-model.git
-   cd lightweight-amc-model
-
